@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="widht:device-width,user-scalable=no">
+    <title>Ejercicio Atributo Style</title>
+    <link rel="stylesheet" href="CSS/Ejercicio Style_archivo ext.css">
+  </head>
+  <body>
+    <h1>
+    <img src="img/concert_logo.png" alt="logo de concierto" title="logo concierto" widht="50 mp" height="100 mp" style="background-color:white">
+    Tu concierto</h1>
+    <p>Bienvenido a este blog de conciertos...</p>
+    <img src="img/concert.jpg" alt="concierto" title="concierto" style="widht:80%" height="600 mp">
+  </body>
+</html>
