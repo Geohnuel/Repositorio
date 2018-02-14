@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width:device-width,user-scalable=no">
+    <title>Style como archivo externo</title>
+    <link rel="stylesheet" href="CSS/Estilos para style archivo ex.css">
+  </head>
+  <body>
+    <h1>Alimento</h1>
+      <p>Los alimentos sanitarios son el objeto de estudio de diversas disciplinas científicas: la biología, y en especial la ciencia de la nutrición, estudia los mecanismos de digestión y metabolización de los alimentos, así como la eliminación de los desechos por parte de los organismos; la ecología estudia las cadenas alimentarias; la química de alimentos analiza la composición de los alimentos y los cambios químicos que experimentan cuando se les aplican procesos tecnológicos, y la tecnología de los alimentos que estudia la elaboración, producción y manejo de los productos alimenticios destinados al consumo humano.
+      </p>
+  </body>
+</html>
