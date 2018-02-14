@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width:device-width,user-scalable=no">
+    <title>Etiqueta Style</title>
+    <style media="screen">
+      h1
+      {
+      color: red;
+      font-family: Algerian
+      }
+      p
+      {
+        color: blue;
+        font-family:Baskerville Old Face
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Dinosauria</h1>
+      <p>Los dinosaurios (Dinosauria, del griego de???? deinos 'terrible' y sa???? sauros 'lagarto': 'lagartos terribles') son un grupo de saurópsidos1?2? que apareció durante el período Triásico. Aunque el origen exacto y su diversificación temprana es tema de activa investigación,3? el consenso científico actual sitúa su origen entre 231 y 243 millones de años atrás.4? Fueron los vertebrados terrestres dominantes durante 135 millones de años, desde el inicio del Jurásico (hace unos 200 millones años) hasta el final del Cretácico (hace 66 millones de años), cuando la mayoría de los grupos de dinosaurios se extinguieron durante la extinción masiva del Cretácico-Terciario que puso fin a la Era Mesozoica. El registro fósil indica que las aves evolucionaron a partir de dinosaurios terópodos durante el período Jurásico y, en consecuencia, muchos taxónomos consideran que las aves forman un subgrupo dentro de los dinosaurios.5? Algunas aves sobrevivieron a este acontecimiento, y sus descendientes continúan el linaje de los dinosaurios hasta nuestros días. <br>
+      </p>
+      <p>Los dinosaurios son un grupo diverso de animales desde el punto de vista taxonómico, morfológico y ecológico. Usando la evidencia fósil, los paleontólogos han identificado cerca de 500 géneros distintos7? y más de mil especies diferentes de dinosaurios no avianos.8? Los dinosaurios están representados en cada continente tanto por especies existentes como por restos fósiles.9?</p>
+  </body>
+</html>
