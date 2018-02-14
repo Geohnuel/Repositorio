@@ -1,0 +1,12 @@
+h1
+{
+  color: red;
+  font-family: Bodoni MT Black;
+  font-size: 60px;
+}
+p
+{
+  color: blue;
+  font-family: Blackadder ITC;
+  font-size: 30px;
+}
