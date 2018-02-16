@@ -1,0 +1,7 @@
+body{background-color: black}
+
+h1{color: red;font-style: italic}
+
+p {color: white; font-style: italic }
+
+div{margin-left: 200px;margin-right: 20px}
