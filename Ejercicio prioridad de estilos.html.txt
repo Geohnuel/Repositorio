@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<div>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="widht:device-width,user-scalable=no">
+    <title>Ejercicio Style en Archivo Externo</title>
+    <style>
+      h1 {color: green !important}
+      p  {color: gold}
+    </style>
+    <link rel="stylesheet" href="CSS/prioridad de estilos.css">
+  </head>
+  <body>
+    <h1 id="tit">
+    <img src="img/concert_logo.png" alt="logo de concierto" title="logo concierto" widht="50 mp" height="100 mp" style="background-color:white">
+    Tu concierto</h1>
+    <p style="color:blue">Bienvenido a este blog de conciertos...</p>
+    <img src="img/concert.jpg" alt="concierto" title="concierto" width="1000 mp" height="600 mp"><br>
+    <a href="mailto:">email me</a>
+  </body>
+</div>
+</html>
